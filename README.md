@@ -58,11 +58,11 @@
       <h3 align="center">Portfolio</h3>
       <br />
         <a target="_blank" href="https://raquelgo.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/101219940/168931791-318b03bd-9161-4027-9788-6cb411eeed9f.gif" width="100%" alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/101219940/169721449-f2b547b9-548e-4d31-b507-f0f00605d2fc.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rakicodes/Portfolio-V2" target="_blank">
+        <a href="https://github.com/rakicodes/Portfolio-v3" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://raquelgo.netlify.app/" target="_blank">
@@ -74,7 +74,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Jeopardy-ish</h3>
       <br />
-      <a target="_blank" href="https://jeopardy-ish.netlify.app/">
+      <a target="_blank" href="https://jeopardy-ish.netlify.app/![Uploading portfolio-v3.gif…]()
+">
         <img src="https://user-images.githubusercontent.com/101219940/168930307-b5d87c20-d0c5-4477-a70f-5e823c48e452.gif" width="100%" alt="Jeopardy-ish"/>
       </a>
       <br />
