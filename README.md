@@ -24,38 +24,38 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Blackjack</h3>
+      <h3 align="center">Happy Paws</h3>
       <br />
-      <a target="_blank" href="https://virtual-blackjack.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101219940/168931336-b93d41da-9dd8-41b2-b9f1-ec9c5b2799ab.gif" width="100%" alt="blackjack"/>
+      <a target="_blank" href="https://happy-paws-blog.netlify.app">
+        <img src="https://user-images.githubusercontent.com/101219940/203858707-176619e0-de1c-4241-93dc-a1c51254034f.gif" width="100%" alt="happy paws home page"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rakicodes/blackjack" target="_blank">
+        <a href="https://github.com/rakicodes/happy-paws" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>  
-        <a href="https://virtual-blackjack.netlify.app/" target="_blank">
+        <a href="https://happy-paws-blog.netlify.app target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-      <p><strong>Javascript, HTML5, CSS3</strong> - Play against a dealer and place your bets! Ready to risk it all and win? Play blackjack online now!</p>
+      <p><strong>MongoDB, ExpressJS, ReactJS, NodeJS</strong> - Photo sharing website where pet owners can share pictures of their adorable pets with people across the globe.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Clondle</h3>
+      <h3 align="center">Maria's Kitchen</h3>
       <br />
-      <a target="_blank" href="https://clondle.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/101219940/168929995-dc6465ff-367f-4df5-b83a-6d5e0c6bf744.gif" width="100%"  alt="Clondle"/>
+      <a target="_blank" href="https://marias-kitchen-blog.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/101219940/203863635-fa6dde0f-aa52-4394-8fd4-a073481c5e80.png" width="100%"  alt="Home page of Maria's Kitchen"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rakicodes/wordle-clone" target="_blank">
+        <a href="https://github.com/rakicodes/marias-kitchen" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://clondle.netlify.app/" target="_blank">
+        <a href="https://marias-kitchen-blog.netlify.app/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - A clone of the popular online game Wordle! Clondle has no limits, play as many times as you want!</p>
+        <p><strong>MongoDB, ExpressJS, ReactJS, NodeJS</strong> - Website to share recipes with friends and family. Join Maria's Kicthen and create delicious meals together!</p>
     </td>
   </tr>
   <tr>
@@ -79,20 +79,19 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
     <td width="50%" valign="top">
       <h3 align="center">Jeopardy-ish</h3>
       <br />
-      <a target="_blank" href="https://jeopardy-ish.netlify.app/![Uploading portfolio-v3.gif…]()
-">
-        <img src="https://user-images.githubusercontent.com/101219940/168930307-b5d87c20-d0c5-4477-a70f-5e823c48e452.gif" width="100%" alt="Jeopardy-ish"/>
+      <a target="_blank" href="https://swifties-favourites.onrender.com/">
+        <img src="https://user-images.githubusercontent.com/101219940/203865087-0cd38953-9bf5-462a-b946-91d38d17399e.png" width="100%" alt=""/>
       </a>
       <br />
       <p align="center">    
-        <a href="https://github.com/rakicodes/jeopardy-ish" target="_blank">
+        <a href="https://github.com/rakicodes/swifties-favourites" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://jeopardy-ish.netlify.app/" target="_blank">
+        <a href="https://swifties-favourites.onrender.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-      <p><strong>Javascript, HTML5, CSS3</strong> - Entertainment trivia in the style of Jeopardy. Answer the questions correctly and earn points!</p>
+      <p><strong>MongoDB, ExpressJS, EJS, NodeJS</strong> - A place where swifties can vote for their favourite Taylor Swift song, album, and lyrics! Come see what other swifties favourites are!</p>
     </td>
   </tr>
 </table>
