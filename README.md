@@ -34,7 +34,7 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
         <a href="https://github.com/rakicodes/happy-paws" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>  
-        <a href="https://happy-paws-blog.netlify.app target="_blank">
+        <a href="https://happy-paws-blog.netlify.app" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
@@ -77,7 +77,7 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
         <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio Site including links to projects and ways to connect with me!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Jeopardy-ish</h3>
+      <h3 align="center">Swifties Favourites</h3>
       <br />
       <a target="_blank" href="https://swifties-favourites.onrender.com/">
         <img src="https://user-images.githubusercontent.com/101219940/203865087-0cd38953-9bf5-462a-b946-91d38d17399e.png" width="100%" alt=""/>
