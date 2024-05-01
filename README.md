@@ -26,7 +26,7 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
     <td width="50%" valign="top">
       <h3 align="center">CookBook</h3>
       <br />
-      <a target="_blank" href="https://happy-paws-blog.netlify.app">
+      <a target="_blank" href="https://ckbk.netlify.app/">
         <img width="1280" alt="Screen Shot 2024-05-01 at 12 42 57 AM" src="https://github.com/rakicodes/rakicodes/assets/101219940/c317657e-7a68-4a4e-8dee-a7948c30d0e4"/>
       </a>
       <br />
@@ -43,7 +43,7 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
     <td width="50%" valign="top">
       <h3 align="center">Say Yes Invitation</h3>
       <br />
-      <a target="_blank" href="https://marias-kitchen-blog.netlify.app/">
+      <a target="_blank" href="https://invitation-to-edmonton.netlify.app/">
             <img width="1279" alt="Screen Shot 2024-05-01 at 12 33 42 AM" src="https://github.com/rakicodes/rakicodes/assets/101219940/25cf246f-3ef8-4ebc-84f8-f9098dcf03b4"/>
       </a>
       <br />
@@ -55,7 +55,7 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-        <p><strong>MongoDB, NextJS, NodeJS</strong> - A fun little way to create and send invitations to friends, family, and loved ones that trended on TikTok.</p>
+        <p><strong>MongoDB, NextJS, NodeJS</strong> - A fun little way to create and send invitations to friends, family, and loved ones.</p>
     </td>
   </tr>
   <tr>
