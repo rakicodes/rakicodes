@@ -24,38 +24,38 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Happy Paws</h3>
+      <h3 align="center">CookBook</h3>
       <br />
       <a target="_blank" href="https://happy-paws-blog.netlify.app">
-        <img src="https://user-images.githubusercontent.com/101219940/203858707-176619e0-de1c-4241-93dc-a1c51254034f.gif" width="100%" alt="happy paws home page"/>
+        <img width="1280" alt="Screen Shot 2024-05-01 at 12 42 57 AM" src="https://github.com/rakicodes/rakicodes/assets/101219940/c317657e-7a68-4a4e-8dee-a7948c30d0e4"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rakicodes/happy-paws" target="_blank">
+        <a href="https://github.com/rakicodes/cookbook" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>  
-        <a href="https://happy-paws-blog.netlify.app" target="_blank">
+        <a href="https://ckbk.netlify.app/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-      <p><strong>MongoDB, ExpressJS, ReactJS, NodeJS</strong> - Photo sharing website where pet owners can share pictures of their adorable pets with people across the globe.</p>
+      <p><strong>MongoDB, ExpressJS, ReactJS, NodeJS</strong> - Recipe sharing website where users can share their favourite homemade meals and search for recipes online.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Maria's Kitchen</h3>
+      <h3 align="center">Say Yes Invitation</h3>
       <br />
       <a target="_blank" href="https://marias-kitchen-blog.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/101219940/203863635-fa6dde0f-aa52-4394-8fd4-a073481c5e80.png" width="100%"  alt="Home page of Maria's Kitchen"/>
+            <img width="1279" alt="Screen Shot 2024-05-01 at 12 33 42 AM" src="https://github.com/rakicodes/rakicodes/assets/101219940/25cf246f-3ef8-4ebc-84f8-f9098dcf03b4"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rakicodes/marias-kitchen" target="_blank">
+        <a href="https://github.com/rakicodes/invitation-v2" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://marias-kitchen-blog.netlify.app/" target="_blank">
+        <a href="https://invitation-to-edmonton.netlify.app/" target="_blank"> <!-- v1 -->
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-        <p><strong>MongoDB, ExpressJS, ReactJS, NodeJS</strong> - Website to share recipes with friends and family. Join Maria's Kicthen and create delicious meals together!</p>
+        <p><strong>MongoDB, NextJS, NodeJS</strong> - A fun little way to create and send invitations to friends, family, and loved ones that trended on TikTok.</p>
     </td>
   </tr>
   <tr>
@@ -77,21 +77,21 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
         <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio Site including links to projects and ways to connect with me!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Swifties Favourites</h3>
+      <h3 align="center">Happy Paws</h3>
       <br />
-      <a target="_blank" href="https://swifties-favourites.onrender.com/">
-        <img src="https://user-images.githubusercontent.com/101219940/203865087-0cd38953-9bf5-462a-b946-91d38d17399e.png" width="100%" alt=""/>
+      <a target="_blank" href="https://happy-paws-blog.netlify.app">
+        <img src="https://user-images.githubusercontent.com/101219940/203858707-176619e0-de1c-4241-93dc-a1c51254034f.gif" width="100%" alt="happy paws home page"/>
       </a>
       <br />
-      <p align="center">    
-        <a href="https://github.com/rakicodes/swifties-favourites" target="_blank">
+      <p align="center">
+        <a href="https://github.com/rakicodes/happy-paws" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://swifties-favourites.onrender.com/" target="_blank">
+        </a>  
+        <a href="https://happy-paws-blog.netlify.app" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-      <p><strong>MongoDB, ExpressJS, EJS, NodeJS</strong> - A place where swifties can vote for their favourite Taylor Swift song, album, and lyrics! Come see what other swifties favourites are!</p>
+      <p><strong>MongoDB, ExpressJS, ReactJS, NodeJS</strong> - Photo sharing website where pet owners can share pictures of their adorable pets with people across the globe.</p>
     </td>
   </tr>
 </table>
