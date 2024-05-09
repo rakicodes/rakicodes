@@ -63,18 +63,18 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
       <h3 align="center">Portfolio</h3>
       <br />
         <a target="_blank" href="https://raquelgo.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/101219940/169721449-f2b547b9-548e-4d31-b507-f0f00605d2fc.gif" width="100%" alt="Portfolio"/>
+          <img width="1280" alt="Screen Shot 2024-05-09 at 2 04 54 PM" src="https://github.com/rakicodes/rakicodes/assets/101219940/c97ccae3-8f6b-4d85-b13f-9b085a7ada06"/>
         </a>
       <br />
       <p align="center">
-        <a href="https://github.com/rakicodes/Portfolio-v3" target="_blank">
+        <a href="https://github.com/rakicodes/portfolio-v4" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://raquelgo.netlify.app/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio Site including links to projects and ways to connect with me!</p>
+        <p><strong>NextJS</strong> - Portfolio Site including links to projects and ways to connect with me!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Happy Paws</h3>
