@@ -55,7 +55,7 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
-        <p><strong>MongoDB, NextJS, NodeJS</strong> - A fun little way to create and send invitations to friends, family, and loved ones.</p>
+        <p><strong>MongoDB, NextJS, ExpressJS, NodeJS</strong> - A fun little way to create and send invitations to friends, family, and loved ones.</p>
     </td>
   </tr>
   <tr>
