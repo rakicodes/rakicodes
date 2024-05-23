@@ -51,7 +51,7 @@ Hi I'm Raquel Go! I’m a CS graduate interested in web development. I make resp
         <a href="https://github.com/rakicodes/invitation-v2" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://invitation-to-edmonton.netlify.app/" target="_blank"> <!-- v1 -->
+        <a href="https://sayyes-invitation.vercel.app/" target="_blank"> <!-- v1 -->
           <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
         </a>
       </p>
